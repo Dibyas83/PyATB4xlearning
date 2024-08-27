@@ -12,9 +12,9 @@ else:
     # grade calculator lab 41
 score=int(input("Enter your score \n"))
 if score>=90 and score<=100:
-     print("grade A")
+     print("grade is"," A")
 elif score >=80 and score <=89:
-    print("grade B")
+    print("grade is","B")
 else:
     print(("grade is F"))
 
