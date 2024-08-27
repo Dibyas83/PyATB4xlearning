@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d661b6-9545-4604-b501-5a0182b1fbf4" name="Changes" comment="ist lab">
-      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex.08082024/lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex.08082024/lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex.08082024/lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,12 @@
     "Python.lab006.executor": "Run",
     "Python.lab007.executor": "Run",
     "Python.lab008.executor": "Run",
+    "Python.lab009.executor": "Run",
+    "Python.lab010 (1).executor": "Run",
+    "Python.lab010.executor": "Run",
+    "Python.lab011.executor": "Run",
+    "Python.lab012.executor": "Run",
+    "Python.lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/a2z/PycharmProjects/PyATB4xlearning/src/ex.08082024",
@@ -73,8 +80,8 @@
       <recent name="C:\Users\a2z\PycharmProjects\PyATB4xlearning\src\ex.08082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab008">
-    <configuration name="lab005 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab013">
+    <configuration name="lab010 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab008.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex.08082024/lab013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab008" />
-        <item itemvalue="Python.lab007" />
-        <item itemvalue="Python.lab006" />
-        <item itemvalue="Python.lab005 (1)" />
-        <item itemvalue="Python.lab005" />
+        <item itemvalue="Python.lab013" />
+        <item itemvalue="Python.lab012" />
+        <item itemvalue="Python.lab011" />
+        <item itemvalue="Python.lab010 (1)" />
+        <item itemvalue="Python.lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724501757315</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ist lab">
+      <option name="closed" value="true" />
+      <created>1724674504693</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724674504693</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
