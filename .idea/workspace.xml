@@ -4,83 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90d661b6-9545-4604-b501-5a0182b1fbf4" name="Changes" comment="ist lab">
-      <change afterPath="$PROJECT_DIR$/newpack/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clascarstart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classinitialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/createserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csvbypandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csvfil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customexception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/filehandle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hybrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/importance ofmainmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masai/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masai/impoe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/importfromanatherpackage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/mod1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/mod2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/ordereddict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module/requestlibrary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/new directory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oerloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/basic py/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/basic py/imporfunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/constructor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/diamondproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/exceptio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/oops1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/oops2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/opps1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/py_dev/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/py_dev/bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/vwooops_proj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/osmethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/lab024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex.08082024/lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/newpack/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="90d661b6-9545-4604-b501-5a0182b1fbf4" name="Changes" comment="ist lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -445,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724857639707</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ist lab">
+      <option name="closed" value="true" />
+      <created>1737606728572</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737606728572</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
