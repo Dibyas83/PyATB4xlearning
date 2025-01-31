@@ -1,7 +1,7 @@
 #file -> module,modules make package,packages make library
 
-from newpack.calculator import output_sum
-from newpack.calculator import output_div
+from src.newpack.calculator import output_sum
+from src.newpack.calculator import output_div
 
 def test_case():
     output_sum()
