@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d661b6-9545-4604-b501-5a0182b1fbf4" name="Changes" comment="ist lab">
-      <change afterPath="$PROJECT_DIR$/src/createcsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newpack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct/test_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB4xlearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB4xlearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newpack/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/newpack/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module/importfromanatherpackage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/importfromanatherpackage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,7 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737607384563</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ist lab">
+      <option name="closed" value="true" />
+      <created>1738296251906</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738296251907</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ist lab">
+      <option name="closed" value="true" />
+      <created>1738296368591</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738296368591</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
