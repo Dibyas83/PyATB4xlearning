@@ -8,7 +8,7 @@ pip list
 only available to project
 
 pip freeze > requirements.txt
-pip install -r requirement.txt
+pip install -r requirements.txt
 req.txt is like pom.xml in java
 pip --help
 pypi.org  gives all packages
