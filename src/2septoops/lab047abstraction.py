@@ -13,7 +13,7 @@ class Animal(ABC): # ABC is inherited to complete incomplete methods
 
 class Dog(Animal):
 
-    def sound(self):
+    def sound(self): # has to def sound compulsorily
         print("bark") # needs to be passed here
 
 husky = Dog("siberian")
@@ -95,7 +95,7 @@ class Car(Engine): # has to use start stop to drive
         self.stop()
 
 
-car = Car()
+car = Car() # engine is hidden, is not known to user
 car.drive()
 
 

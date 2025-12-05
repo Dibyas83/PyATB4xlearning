@@ -1,9 +1,22 @@
 
+a = 11 # global
+
 class Doga: # class Name will always start from the Capital letter
     # A
     name = None
     breed = None
-    color = None
+    color = "red"
+
+    def __init__(self):
+        self.name = input("Enter the name\n")
+        self.age = input("Enter your age\n")
+        self.phone = input("Enter your phone\n")
+        self.occupation = input("Enter your occupation\n")
+
+    def name_of_the_function_to_display(self):
+        a=22  # no self needed
+        print(f"Name is {self.name}", f"Age is {self.age}", f"Phone is {a} + {self.phone}",
+              f"occupation is {self.occupation} and {self.color}")
 
     # B
     def sleep(self):
@@ -21,7 +34,7 @@ print(dog1.name)
 dog1.name = "Chow"
 print(dog1.name)
 dog1.sleep()
-
+dog1.name_of_the_function_to_display()
 print(" ---- -----------------")
 
 
@@ -33,7 +46,7 @@ print(dog2.name)
 dog3 = dog1
 
 # to set the value automatically we use constructor . it is special function in class  it will automatically called when we create an object
-a= 10 # global var
+k= 10 # global var
 
 
 # Constructor

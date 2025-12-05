@@ -1,7 +1,15 @@
 
+
+"""
+c  is procedural language - everyhting is a func
+python,java are class(blueprint,object - feild,member or instance of class)attribute(id,name,address,weight,height),behaviour(walk(),eat(),work())
+
+
+"""
+
 class Person:
     # Attributes
-    id = None
+    id = None # instance var
     name = None
     age = None
     email = None
@@ -11,7 +19,7 @@ class Person:
     address = None
 
     # Behaviour
-    def talk(self):  # NRNG  # self - this , self will be first argument in every behaviour.
+    def talk(self):  # NRNG  # (self - this) , self will be first argument in every behaviour.
         print("I can talk")
 
     def sleep(self, name):  # Arg with No Return
@@ -47,7 +55,7 @@ class Persons:
 
 
     # def __init__(self,name,age):
-    def __init__(self):
+    def __init__(self):  # attribute creations
         print("Called object is created")
         self.name = input("Enter your name") # attributes
         self.age = input("Enter your age")
@@ -66,7 +74,28 @@ person1 = Persons()
 person1.display_info()
 
 
+class Person2:
 
+
+    # def __init__(self,name,age):constructor to initialize val of attributes
+    def __init__(self,ramm,age):  # attribute creations
+        print("Called object is created")
+        self.name = ramm # attributes
+        self.age = age
+
+    def display_info(self):
+        print(f"Name is {self.name}",f"Age is {self.age} is {self.sleep()}")
+        print(f"Age is {self.age}") # behaviour
+
+    def sleep(self):
+       #local variable = 10
+        print("sleeping ->" ,self.name,self.age)
+        return None
+
+
+# create an object
+person2 = Person2(ramm='ram',age=34)
+person2.display_info()
 
 
 

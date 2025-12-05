@@ -5,87 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d661b6-9545-4604-b501-5a0182b1fbf4" name="Changes" comment="ist lab">
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/dfg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/import-module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab021arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab025decoratorwrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab025decoratorwrapper2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab030lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab031list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab032tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab033tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab034set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab035dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab036class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab039car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab041increntingfunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab042login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab044inheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab045methodoverriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab049staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab052ifelseexceptio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab053ifelseexceptio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab054customexceptio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab055main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2septoops/lab056joinpath_directories.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB4xlearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB4xlearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab042encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab059modul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab060module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab061openbrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab062closebrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab063importmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab064opengoogle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab064piplist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab065deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/lab066ordereddict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2septoops/manual testing/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clascarstart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classinitialize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/masai/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/masai/impoe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module/requestlibrary.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/requestlibrary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new directory/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab038oopinput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oerloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab046oerloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/Project2 Restful Booker Integration Scenario.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/Project2 Restful Booker Integration Scenario.postman_collection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab047abstraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/basic py/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/basic py/imporfunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab048calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/constructor" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/constructor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/constructor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/diamondproblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/diamondproblem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab040password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/exceptio.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab051exceptio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab002typeconversio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab003complex_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab004declaration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab005datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab006pow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab007input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab009bool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab010ifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab011math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab012nested ifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab013maxgrade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab014fstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab015xor-revlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab016whilefor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab017matchcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab018functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab019sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab021.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab023global.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab024outerinnerfunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab028time_lapse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1aug2024Fundamentals_of_python/lab029chaindecorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/oops1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/oops2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/opps1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab037oop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/py_dev/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab043private_pubvar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/py_dev/bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab050bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/vwooops_proj.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/vwooops_proj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/diamondproblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab058diamondproblem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab036class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab036class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab037oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab037oopvartypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab042login.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab042login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab044inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab044inheritence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab045methodoverriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab045polymerphismmethodoverriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab046oerloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab046oerloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab047abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab047abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab048calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab048calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2septoops/lab056joinpath_directories.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/lab056joinpath_directories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csvbypandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/csvbypandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csvfil.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/csvfil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customexception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filehandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/filehandle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/importfromanatherpackage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/mod1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/mod2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/ordereddict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/requestlibrary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/2septoops/testdata.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,146 +78,157 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for dfg.test_ui_1.executor": "Run",
-    "Python tests.Python tests for dfg.test_ui_2.executor": "Run",
-    "Python tests.Python tests for lab025decoratorwrapper.testui.executor": "Run",
-    "Python tests.Python tests for lab028tine_lapse.test_ui_1.executor": "Run",
-    "Python tests.Python tests for src.oct.test_1.test_verify.executor": "Run",
-    "Python tests.Python tests for test_1.test_verify.executor": "Run",
-    "Python tests.Python tests for test_1.test_verify_sum.executor": "Run",
-    "Python tests.Python tests for test_5.test_put_request_pos.executor": "Debug",
-    "Python tests.Python tests for test_6.test_put_request_postive.executor": "Run",
-    "Python tests.Python tests for test_8.test_verify_sum.executor": "Run",
-    "Python tests.Python tests in lab025decoratorwrapper.py.executor": "Run",
-    "Python tests.Python tests in lab027.py.executor": "Run",
-    "Python tests.Python tests in lab028.py.executor": "Run",
-    "Python tests.Python tests in lab028time_lapse.py.executor": "Run",
-    "Python.31list.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.abstraction (1).executor": "Run",
-    "Python.abstraction.executor": "Run",
-    "Python.bank.executor": "Run",
-    "Python.calculator (1).executor": "Run",
-    "Python.calculator (2).executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.classinitialize.executor": "Run",
-    "Python.constructor.executor": "Run",
-    "Python.csvbypandas.executor": "Run",
-    "Python.csvfil.executor": "Run",
-    "Python.customexception.executor": "Run",
-    "Python.dfg.executor": "Run",
-    "Python.dfgdg.executor": "Run",
-    "Python.diamondproblem.executor": "Run",
-    "Python.encapsulation (1).executor": "Run",
-    "Python.encapsulation.executor": "Run",
-    "Python.encapsulation2.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.ex3 (1).executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.ex4.executor": "Run",
-    "Python.exceptio.executor": "Run",
-    "Python.exp.executor": "Run",
-    "Python.filehandle.executor": "Run",
-    "Python.hybrid.executor": "Run",
-    "Python.impoe.executor": "Run",
-    "Python.imporfunc.executor": "Run",
-    "Python.import-module.executor": "Run",
-    "Python.importance ofmainmethod.executor": "Run",
-    "Python.importfromanatherpackage (1).executor": "Run",
-    "Python.importfromanatherpackage.executor": "Run",
-    "Python.lab001.executor": "Run",
-    "Python.lab002 (1).executor": "Run",
-    "Python.lab002.executor": "Run",
-    "Python.lab003 (1).executor": "Run",
-    "Python.lab003.executor": "Run",
-    "Python.lab004.executor": "Run",
-    "Python.lab005 (1).executor": "Run",
-    "Python.lab005.executor": "Run",
-    "Python.lab006.executor": "Run",
-    "Python.lab007.executor": "Run",
-    "Python.lab007input.executor": "Run",
-    "Python.lab008.executor": "Run",
-    "Python.lab009.executor": "Run",
-    "Python.lab010 (1).executor": "Run",
-    "Python.lab010.executor": "Run",
-    "Python.lab011.executor": "Run",
-    "Python.lab012.executor": "Run",
-    "Python.lab012nested ifelse.executor": "Run",
-    "Python.lab013.executor": "Run",
-    "Python.lab014 (1).executor": "Run",
-    "Python.lab014.executor": "Run",
-    "Python.lab015 (1).executor": "Run",
-    "Python.lab015.executor": "Run",
-    "Python.lab016.executor": "Run",
-    "Python.lab017.executor": "Run",
-    "Python.lab018.executor": "Run",
-    "Python.lab019.executor": "Run",
-    "Python.lab020.executor": "Run",
-    "Python.lab021.executor": "Run",
-    "Python.lab022.executor": "Run",
-    "Python.lab023 (1).executor": "Run",
-    "Python.lab023.executor": "Run",
-    "Python.lab024 (1).executor": "Run",
-    "Python.lab024.executor": "Run",
-    "Python.lab024outerinnerfunc (1).executor": "Run",
-    "Python.lab025.executor": "Run",
-    "Python.lab025decoratorwrapper.executor": "Run",
-    "Python.lab025decoratorwrapper2.executor": "Run",
-    "Python.lab026.executor": "Run",
-    "Python.lab027.executor": "Run",
-    "Python.lab028.executor": "Run",
-    "Python.lab028time_lapse (1).executor": "Run",
-    "Python.lab028tine_lapse (1).executor": "Run",
-    "Python.lab029.executor": "Run",
-    "Python.lab029chaindecorator (1).executor": "Run",
-    "Python.lab030lambda.executor": "Run",
-    "Python.lab0321list.executor": "Run",
-    "Python.lab033tuple.executor": "Run",
-    "Python.lab034set.executor": "Run",
-    "Python.lab036class.executor": "Run",
-    "Python.lab037oop.executor": "Run",
-    "Python.lab038oopinput.executor": "Run",
-    "Python.lab040password (1).executor": "Run",
-    "Python.lab041.executor": "Run",
-    "Python.lab042login.executor": "Run",
-    "Python.lab043private_pubvar.executor": "Run",
-    "Python.lab044inheritence.executor": "Run",
-    "Python.lab045methodoverriding.executor": "Run",
-    "Python.lab047abstraction.executor": "Run",
-    "Python.lab049staticmethod.executor": "Run",
-    "Python.lab051exceptio.executor": "Run",
-    "Python.lab052ifelseexceptio.executor": "Run",
-    "Python.lab053ifelseexceptio.executor": "Run",
-    "Python.lab054customexceptio.executor": "Run",
-    "Python.lab055main.executor": "Run",
-    "Python.lab056join.executor": "Run",
-    "Python.lab056joinpath_directories (1).executor": "Run",
-    "Python.lab1.executor": "Run",
-    "Python.lab2.executor": "Run",
-    "Python.lab3.executor": "Run",
-    "Python.mod2.executor": "Run",
-    "Python.oerloading.executor": "Run",
-    "Python.oops1.executor": "Run",
-    "Python.oops2.executor": "Run",
-    "Python.opps1.executor": "Run",
-    "Python.ordereddict.executor": "Run",
-    "Python.osmethods.executor": "Run",
-    "Python.polymerphism.executor": "Run",
-    "Python.requestlibrary.executor": "Run",
-    "Python.staticmethod.executor": "Run",
-    "Python.tryelse.executor": "Run",
-    "Python.vwooops_proj.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/PyATB4xlearning/src/2septoops",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for dfg.test_ui_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for dfg.test_ui_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for lab025decoratorwrapper.testui.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for lab028tine_lapse.test_ui_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.oct.test_1.test_verify.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_1.test_verify.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_1.test_verify_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_5.test_put_request_pos.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_6.test_put_request_postive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_8.test_verify_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab025decoratorwrapper.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab027.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab028.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab028time_lapse.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in lab063importmodule.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstraction (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classinitialize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvbypandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csvfil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.customexception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfgdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diamondproblem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandle (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hybrid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.impoe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imporfunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import-module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.importance ofmainmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.importfromanatherpackage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.importfromanatherpackage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab003 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab007input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab010 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab012nested ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab014 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab015 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab023 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab024 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab024outerinnerfunc (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab025decoratorwrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab025decoratorwrapper2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab028time_lapse (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab028tine_lapse (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab029chaindecorator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab030lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0321list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab033tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab034set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab036class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab037oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab037oopvartypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab038oopinput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab040password (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab042encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab042login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab043private_pubvar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab044inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab045methodoverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab045polymerphismmethodoverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab046oerloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab047abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab049staticmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab051exceptio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab052ifelseexceptio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab053ifelseexceptio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab054customexceptio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab055main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab056join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab056joinpath_directories (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab060module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab064piplist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab065deque.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab066ordereddict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oerloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.opps1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ordereddict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osmethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymerphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.requestlibrary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.staticmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tryelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vwooops_proj.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/PyATB4xlearning/src/2septoops&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\PycharmProjects\PyATB4xlearning\src\2septoops" />
@@ -281,8 +245,8 @@
       <recent name="C:\Users\a2z\PycharmProjects\PyATB4xlearning\src\oops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab056joinpath_directories (1)">
-    <configuration name="lab053ifelseexceptio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab046oerloading">
+    <configuration name="lab037oopvartypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +259,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab053ifelseexceptio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab037oopvartypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab054customexceptio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab042encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +281,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab054customexceptio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab042encapsulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab055main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab044inheritence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,7 +303,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab055main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab044inheritence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab056joinpath_directories (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab045polymerphismmethodoverriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -361,7 +325,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab056joinpath_directories.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab045polymerphismmethodoverriding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab056joinpath_directories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab046oerloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xlearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -383,7 +347,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\PyATB4xlearning\src\2septoops\lab056joinpath_directories.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2septoops/lab046oerloading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,18 +358,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab056joinpath_directories (1)" />
-        <item itemvalue="Python.lab056joinpath_directories" />
-        <item itemvalue="Python.lab055main" />
-        <item itemvalue="Python.lab054customexceptio" />
-        <item itemvalue="Python.lab053ifelseexceptio" />
+        <item itemvalue="Python.lab046oerloading" />
+        <item itemvalue="Python.lab045polymerphismmethodoverriding" />
+        <item itemvalue="Python.lab044inheritence" />
+        <item itemvalue="Python.lab042encapsulation" />
+        <item itemvalue="Python.lab037oopvartypes" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -546,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738296368591</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ist lab">
+      <option name="closed" value="true" />
+      <created>1763460099822</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763460099822</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

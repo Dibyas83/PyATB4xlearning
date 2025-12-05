@@ -46,7 +46,7 @@ with open(...) as file:: Using with is the recommended way to handle files, as i
 file for you, even if errors occur. 
 
 """
-
+print("--------------------------------------------2")
 try:
     with open("TestData.txt", "a") as file:
         file.write("Hello How are you")
@@ -54,8 +54,15 @@ try:
         file.seek(0)
         content1 = file.readlines()
         print(content1)
+        file.seek(0)
+        print("----------------------")
         for col in content1:
             print(col[0], col[1], sep="|")
+        print("--------------------------")
+        file.seek(0)
+        lines = file.readlines()
+        for line in lines:
+            print(line, end="")
 except FileNotFoundError as fnfr:
     print(fnfr)
 finally:

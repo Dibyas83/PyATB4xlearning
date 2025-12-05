@@ -5,11 +5,11 @@
 
 class VWOLoginPage:
 
-    def __init__(self, email_arg, password_arg):
+    def __init__(self, email_arg, password_arg,name,last_name):
         self.email = email_arg
         self.password = password_arg
-        # self.name = name
-        # self.last_name = last_name
+        self.name = name
+        self.last_name = last_name
 
     def login_confirm(self):
         if self.email == "pramod@gmail.com" and self.password == "Pass123":
@@ -32,25 +32,5 @@ pramod.login_confirm()
 
 
 
-# Encapsulation -
-# Hide the data members(class variables, instance variables)
-# by using only the methods.
-
-class Car:
-    model = None
-    name = None
-    password = 123
-
-    def __init__(self):
-        self.password = "pramod"
-
-    def change_password(self):
-        print(self.password)
-
-
-
-object_ref = Car()
-print(object_ref.password)
-object_ref.change_password()
 
 

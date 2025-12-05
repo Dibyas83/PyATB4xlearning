@@ -94,30 +94,44 @@ class Son3(Father2, Mother2):
 
 
 s = Son2()
+s2 = Son3()
 print(s.father_money())
+print(s2.father_money())
 print(s.mother_money())
 print(s.home())
+print(s2.home())
+
 print(s.key)
 s.show_everything()
 
 
-# Hierarchical Inheritance
+# Hierarchical Inheritance , hybrid
 
 class Father:
     def BHK1(self):
         print("1BHK")
+    def jk(self):
+        print("l")
+    def h(self):
+        print("o")
 
 class Pramod(Father):
     def BHK2(self):
         print("2BHK")
+    def jk(self):
+        print("p")
 
 class Amit(Father):
     def BHK3(self):
         print("3BHK")
+    def jk(self):
+        print("a")
 
-class Lucky(Father):
+class Lucky(Pramod,Amit):
     def no_house(self):
         print("NO house")
+    #def jk(self):
+       # pass
 
 pramod = Pramod()
 pramod.BHK1()
@@ -131,3 +145,5 @@ amit.BHK3()
 luck = Lucky()
 luck.no_house()
 luck.BHK1()
+luck.jk()
+luck.h()

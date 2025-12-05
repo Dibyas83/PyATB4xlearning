@@ -1,4 +1,7 @@
 
+
+# compiled time and runtime polymerphism
+# differentiated behaviour wise - two ways for polymerphism Method overriding , Method overloading
 # Method overriding
 # says that, Child or subclass can have same name method as the parent or super class
 
@@ -22,6 +25,7 @@ class Circle(Shape):
         self.radius = radius
 
     def area(self):
+        super().area()
         return 3.14 * self.radius * self.radius
 
 
@@ -51,8 +55,8 @@ class Father(GrandFather):
 class Son(Father):
     b = 13
     def home(self):
-        super().home() # Father Behaviour by super()
-        print(super().a) # Father Asttributes by super()
+        super().home() # access Father Behaviour by super()
+        print(super().a) # access  Father Asttributes by super()
         print("No House")
         print(self.b)
 

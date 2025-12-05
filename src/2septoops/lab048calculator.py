@@ -30,7 +30,7 @@ print(output_div)
 print("----------------------------3222")
 
 class Calcu:
-    def __init__(self,a,b):
+    def __init__(self,a,b): # parameerized constructor
         self.a = a
         self.b = b
         print("Calculator")
